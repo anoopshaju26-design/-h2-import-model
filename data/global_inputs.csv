@@ -1,0 +1,8 @@
+key,value,unit,source,status
+interest_rate,0.08,-,Techno-economic and environmental assessment of renewable hydrogen import routes from overseas in 2030 (WACC 8 pct); Griffith Univ 2024 base case 8 pct; scenario range 6-10 pct per IRENA 2020,SOURCED
+lifetime_years,25,years,NESO electrolyser assumptions; Aurecon 2024 Energy Technology Cost and Technical Parameter Review,SOURCED
+electricity_price,39.3,EUR/MWh_el,IRENA (2026) Renewable Power Generation Costs in 2025; solar PV 44 USD/MWh divided by 1.1208 USD per EUR (ECB 15 Oct 2026),SOURCED
+electrolyser_efficiency,0.65,- (LHV),Enagas electrolysis summary report Dec 2025 citing IEA; alkaline 60-65 pct LHV,SOURCED
+electrolyser_capex,1819,EUR/kW_el,ACER CHEST dataset from IEA Global Hydrogen Review 2025; alkaline 2024 in EUR2024/kW,SOURCED
+full_load_hours,4000,h/year,German hydrogen strategy planning assumption; Fraunhofer policy brief (good sites above 4000 h),SOURCED
+opex_fraction_of_capex,0.017,- per year,Aurecon 2024 review: fixed O&M 49.2 USD/kW/yr divided by capex 2862 USD/kW (own calculation),SOURCED

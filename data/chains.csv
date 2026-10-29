@@ -1,0 +1,6 @@
+chain,order,step,type,efficiency,cost_per_mwh_in,loss_per_1000km,cost_per_mwh_per_1000km,source,status
+H2 pipeline,1,Compression,conversion,0.98,3.0,,,TODO,PLACEHOLDER
+H2 pipeline,2,Pipeline transport,transport,,,0.015,6.0,TODO,PLACEHOLDER
+Ammonia by ship,1,Ammonia synthesis,conversion,0.80,15.0,,,TODO,PLACEHOLDER
+Ammonia by ship,2,Shipping,transport,,,0.001,1.5,TODO,PLACEHOLDER
+Ammonia by ship,3,Cracking to H2,conversion,0.75,20.0,,,TODO,PLACEHOLDER
